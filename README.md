@@ -164,6 +164,6 @@ python3 scripts/make_html.py img_mode=embed
 
 本项目仅用于抓取**你有权访问的内容**（你的微信账号能正常查看的公众号文章）。请遵守微信平台条款与相关法律法规，不要用于批量侵权、绕过访问控制或其它不当用途。
 
-## 致谢与许可
+## 许可
 
-脚本与文档来自个人使用的 Claude Code Skill。仓库暂未声明开源许可证；如需复用，请先联系作者。
+本项目采用 [Apache License 2.0](LICENSE) 开源许可，Copyright 2026 dingjs。

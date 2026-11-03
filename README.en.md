@@ -164,6 +164,6 @@ python3 scripts/make_html.py img_mode=embed
 
 This project is only for scraping **content you are entitled to access** (articles your own WeChat account can view normally). Follow WeChat's terms and applicable laws; do not use it for mass infringement, bypassing access controls, or other improper purposes.
 
-## Credits and license
+## License
 
-Scripts and docs come from a personal Claude Code Skill. No open-source license has been declared for this repository yet; please contact the author before reuse.
+Released under the [Apache License 2.0](LICENSE). Copyright 2026 dingjs.
